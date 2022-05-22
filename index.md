@@ -2,14 +2,15 @@
 
 ## Location
 
-Calle de Santanyi, 35
+Calle de Santanyi, 35  
 07639 Campos - Illes Balears
 
 ## Contact
 
-Tel.: +43 664 419 3847
+Tel.: +43 664 419 3847  
 Email: matthias.kuprian@gmx.at
 
+{::comment}
 
 ```markdown
 Syntax highlighted code block
@@ -28,5 +29,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-
+{:/comment}
